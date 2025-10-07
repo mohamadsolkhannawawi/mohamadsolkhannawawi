@@ -2,11 +2,10 @@
   <img src="images/github-header-banner.png" alt="Hello there, I'm Solkhan. Creating End-to-End Digital Solutions"/>
 </p>
 
-
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Web+Developer;Informatics+Student+at+Diponegoro+University;Ex-Intern+at+Diskominfo+Kota+Semarang&center=true&size=32&width=800&height=120">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Web+Developer;Informatics+Student+at+Diponegoro+University;Ex-Intern+at+Diskominfo+Kota+Semarang&center=true&size=32&width=800&height=90">
 </a>
 
 </div>
@@ -30,71 +29,73 @@
 </p>
 
 <details align="center">
-<summary><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="22px" style="vertical-align:middle;">&nbsp; My Learning Journey & Core Competencies</summary>
+<summary>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="20" style="vertical-align: middle; margin-right: 8px;">
+  <strong>My Learning Journey & Core Competencies</strong>
+</summary>
 <br>
 <p>
   I am committed to continuous learning through a structured path on platforms like <strong>KelasFullstack</strong>, <strong>Udemy</strong>, and other online resources. This journey covers the entire spectrum of modern web development.
 </p>
 
-<table align="center">
-  <tr>
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr align="center">
     <td valign="top" width="33%">
-      <div align="center">
+      <div>
         <strong><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="18px" />  Fundamentals</strong>
       </div>
-      <p align="center">
+      <p>
         Algorithms & Data Structures<br>
         Git & Version Control<br>
         CLI / Terminal
       </p>
     </td>
     <td valign="top" width="33%">
-      <div align="center">
+      <div>
         <strong><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="18px" />  Frontend Development</strong>
       </div>
-      <p align="center">
+      <p>
         HTML, CSS, JavaScript (ES6+)<br>
         React.js, Vue.js, Next.js<br>
         TailwindCSS, Bootstrap
       </p>
     </td>
     <td valign="top" width="33%">
-      <div align="center">
+      <div>
         <strong><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="18px" />  Backend Development</strong>
       </div>
-      <p align="center">
+      <p>
         PHP (OOP), Laravel, CodeIgniter<br>
         Node.js, Express.js, NestJS<br>
         MySQL, PostgreSQL, MongoDB
       </p>
     </td>
   </tr>
-  <tr>
-    <td valign="top" width="33%">
-      <div align="center">
+  <tr align="center">
+    <td valign="top" width="50%" colspan="1" style="border-right: 1px solid #ddd;">
+      <div>
         <strong><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="18px" />  Deployment & DevOps</strong>
       </div>
-      <p align="center">
+      <p>
         Linux, NGINX, VPS Setup<br>
         Docker, cPanel<br>
         Vercel, Netlify
       </p>
     </td>
-    <td valign="top" width="33%">
-      <div align="center">
+    <td valign="top" width="50%" colspan="2">
+      <div>
         <strong><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="18px" />  Additional Skills</strong>
       </div>
-      <p align="center">
+      <p>
         UI/UX Design Principles<br>
         Software Testing (Selenium)<br>
         Career Development
       </p>
     </td>
-    <td valign="top" width="33%">
-       </td>
   </tr>
 </table>
 </details>
+<br>
 <br>
 
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
@@ -108,7 +109,6 @@
   </a>
 </p>
 
-
 <h3 align="center">📈 GitHub Activity & Stats</h3>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamadsolkhannawawi&show_icons=true&theme=transparent&hide_border=true&title_color=007BFF&text_color=434343&icon_color=007BFF" alt="solkhan's github stats"/>
@@ -118,7 +118,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/mohamadsolkhannawawi/mohamadsolkhannawawi/output/snake.svg" alt="Snake animation" />
 </p>
-
 
 <h3 align="center">🌐 Other Platforms</h3>
 <p align="center">
@@ -137,7 +136,7 @@
 
 <h3 align="center">🎧 Now Listening on Spotify</h3>
 <p align="center">
-  <a href="https://open.spotify.com/user/31g73g6lwxg2deotjhtk3vo4c42y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31g73g6lwxg2deotjhtk3vo4c42y" alt="Spotify recently played" />
+  <a href="https://open.spotify.com/user/Mohamad Solkhan
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/31te7v3y6ystk6bilb2tur2u3qgi?si=e0ffc8b0ef594ba4&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </p>
