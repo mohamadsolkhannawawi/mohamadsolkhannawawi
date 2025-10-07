@@ -132,7 +132,7 @@
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
   </a>
   &nbsp;
-  <a href="https.t.me/solkhann" target="_blank">
+  <a href="https://t.me/solkhann" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   &nbsp;
