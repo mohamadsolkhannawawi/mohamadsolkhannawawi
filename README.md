@@ -28,62 +28,77 @@
   </a>
 </p>
 
-<details align="center">
-<summary>
+<details>
+<summary align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="20" style="vertical-align: middle; margin-right: 8px;">
   <strong>My Learning Journey & Core Competencies</strong>
 </summary>
 <br>
-<p align="center">
-  I am committed to continuous learning through a structured path on platforms like <strong>KelasFullstack</strong>, <strong>Udemy</strong>, and other online resources. <br>This journey covers the entire spectrum of modern web development.
-</p>
 
-<table align="center" style="border: none; width:100%; border-collapse: collapse;">
-  <tr align="center">
-    <td valign="top" width="33.33%" style="padding: 10px;">
-        <strong><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="18px" />  Fundamentals</strong>
-      <p align="center" style="margin-top: 5px;">
-        Algorithms & Data Structures<br>
-        Git & Version Control<br>
-        CLI / Terminal
-      </p>
-    </td>
-    <td valign="top" width="33.33%" style="padding: 10px;">
-        <strong><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="18px" />  Frontend Development</strong>
-      <p align="center" style="margin-top: 5px;">
-        HTML, CSS, JavaScript (ES6+)<br>
-        React.js, Vue.js, Next.js<br>
-        TailwindCSS, Bootstrap
-      </p>
-    </td>
-    <td valign="top" width="33.33%" style="padding: 10px;">
-        <strong><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="18px" />  Backend Development</strong>
-      <p align="center" style="margin-top: 5px;">
-        PHP (OOP), Laravel, CodeIgniter<br>
-        Node.js, Express.js, NestJS<br>
-        MySQL, PostgreSQL, MongoDB
-      </p>
-    </td>
-  </tr>
-  <tr align="center">
-    <td valign="top" width="50%" colspan="1" style="padding: 10px;">
-        <strong><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="18px" />  Deployment & DevOps</strong>
-      <p align="center" style="margin-top: 5px;">
-        Linux, NGINX, VPS Setup<br>
-        Docker, cPanel<br>
-        Vercel, Netlify
-      </p>
-    </td>
-    <td valign="top" width="50%" colspan="2" style="padding: 10px;">
-        <strong><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="18px" />  Additional Skills</strong>
-      <p align="center" style="margin-top: 5px;">
-        UI/UX Design Principles<br>
-        Software Testing (Selenium)<br>
-        Career Development
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p align="center">
+    I am committed to continuous learning through a structured path on platforms like <strong>KelasFullstack</strong>, <strong>Udemy</strong>, and other online resources. <br>This journey covers the entire spectrum of modern web development.
+  </p>
+
+  <table style="border: none; width:100%; max-width: 800px; border-collapse: collapse;">
+    <tr align="center">
+      <td valign="top" width="50%" style="padding: 10px; border-bottom: 1px solid #444; border-right: 1px solid #444;">
+        <div>
+          <strong><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="18px" />  Fundamentals</strong>
+        </div>
+        <p align="center" style="margin-top: 5px;">
+          Algorithms & Data Structures<br>
+          Git & Version Control<br>
+          CLI / Terminal
+        </p>
+      </td>
+      <td valign="top" width="50%" style="padding: 10px; border-bottom: 1px solid #444;">
+        <div>
+          <strong><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="18px" />  Frontend Development</strong>
+        </div>
+        <p align="center" style="margin-top: 5px;">
+          HTML, CSS, JavaScript (ES6+)<br>
+          React.js, Vue.js, Next.js<br>
+          TailwindCSS, Bootstrap
+        </p>
+      </td>
+    </tr>
+    <tr align="center">
+      <td valign="top" width="50%" style="padding: 10px; border-right: 1px solid #444;">
+        <div>
+          <strong><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="18px" />  Deployment & DevOps</strong>
+        </div>
+        <p align="center" style="margin-top: 5px;">
+          Linux, NGINX, VPS Setup<br>
+          Docker, cPanel<br>
+          Vercel, Netlify
+        </p>
+      </td>
+      <td valign="top" width="50%" style="padding: 10px;">
+        <div>
+          <strong><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="18px" />  Additional Skills</strong>
+        </div>
+        <p align="center" style="margin-top: 5px;">
+          UI/UX Design Principles<br>
+          Software Testing (Selenium)<br>
+          Career Development
+        </p>
+      </td>
+    </tr>
+    <tr align="center">
+      <td valign="top" colspan="2" style="padding: 10px; border-top: 1px solid #444;">
+        <div>
+          <strong><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="18px" />  Backend Development</strong>
+        </div>
+        <p align="center" style="margin-top: 5px;">
+          PHP (OOP), Laravel, CodeIgniter<br>
+          Node.js, Express.js, NestJS<br>
+          MySQL, PostgreSQL, MongoDB
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 </details>
 <br>
 
