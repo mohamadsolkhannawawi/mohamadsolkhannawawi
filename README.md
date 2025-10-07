@@ -147,7 +147,7 @@
   </a>
  &nbsp;&nbsp;
   <a href="https://app.daily.dev/mohamadsolkhannawawi">
-    <img src="https://api.daily.dev/devcards/v2/M7jNyEBrSXY75SAeGCCNU.png?r=fi8&type=default" width="350" alt="Mohamad Solkhan Nawawi's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/M7jNyEBrSXY75SAeGCCNU.png?r=fi8&type=default" width="348" alt="Mohamad Solkhan Nawawi's Dev Card"/>
   </a>
 </p>
 
