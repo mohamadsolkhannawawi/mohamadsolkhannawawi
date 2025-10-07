@@ -86,9 +86,6 @@
 </table>
 </details>
 <br>
-<br>
-<br>
-<br>
 
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 <p align="center">
@@ -113,13 +110,14 @@
 
 <div align="center">
 
-<h3 align="center">🌐 Other Platforms</h3>
+<h3 align="center">🌐 Other Platforms & Activity</h3>
+
 <p align="center">
   <a href="https://gitlab.com/mohamadsolkhannawawi" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
   </a>
   &nbsp;
-  <a href="https://t.me/solkhann" target="_blank">
+  <a href="https.t.me/solkhann" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   &nbsp;
@@ -128,10 +126,13 @@
   </a>
 </p>
 
-<h3 align="center">🎧 Now Listening on Spotify</h3>
 <p align="center">
-  <a href="https://open.spotify.com/user/31g73g6lwxg2deotjhtk3vo4c42y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31g73g6lwxg2deotjhtk3vo4c42y&count=5&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31te7v3y6ystk6bilb2tur2u3qgi?si=e9d9b1d80ec6448e">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xgs3bjfyzjbixwoydamnlo7tba&count=5&unique=true" alt="Spotify Recently Played" />
+  </a>
+ &nbsp;&nbsp;
+  <a href="https://app.daily.dev/mohamadsolkhannawawi">
+    <img src="https://api.daily.dev/devcards/v2/M7jNyEBrSXY75SAeGCCNU.png?r=fi8&type=default" width="356" alt="Mohamad Solkhan Nawawi's Dev Card"/>
   </a>
 </p>
 
