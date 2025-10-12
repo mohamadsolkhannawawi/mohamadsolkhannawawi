@@ -44,7 +44,7 @@
     <tr align="center">
       <td valign="top" width="50%" style="padding: 10px; border-bottom: 1px solid #444; border-right: 1px solid #444;">
         <div>
-          <strong><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="18px" />  Fundamentals</strong>
+          <strong><img src="https://skillicons.dev/icons?i=git,linux" width="48px" />  <br>Fundamentals</strong>
         </div>
         <p align="center" style="margin-top: 5px;">
           Algorithms & Data Structures<br>
@@ -54,19 +54,7 @@
       </td>
       <td valign="top" width="50%" style="padding: 10px; border-bottom: 1px solid #444;">
         <div>
-          <strong><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="18px" />  Frontend Development</strong>
-        </div>
-        <p align="center" style="margin-top: 5px;">
-          HTML, CSS, JavaScript (ES6+)<br>
-          React.js, Vue.js, Next.js<br>
-          TailwindCSS, Bootstrap
-        </p>
-      </td>
-    </tr>
-    <tr align="center">
-      <td valign="top" width="50%" style="padding: 10px; border-right: 1px solid #444;">
-        <div>
-          <strong><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="18px" />  Deployment & DevOps</strong>
+          <strong><img src="https://skillicons.dev/icons?i=docker,nginx" width="48px" />  <br>Deployment & DevOps</strong>
         </div>
         <p align="center" style="margin-top: 5px;">
           Linux, NGINX, VPS Setup<br>
@@ -74,26 +62,38 @@
           Vercel, Netlify
         </p>
       </td>
-      <td valign="top" width="50%" style="padding: 10px;">
+    </tr>
+    <tr align="center">
+      <td valign="top" width="50%" style="padding: 10px; border-right: 1px solid #444;">
         <div>
-          <strong><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="18px" />  Additional Skills</strong>
+          <strong><img src="https://skillicons.dev/icons?i=react,vue" width="48px" />  <br>Frontend Development</strong>
         </div>
         <p align="center" style="margin-top: 5px;">
-          UI/UX Design Principles<br>
-          Software Testing (Selenium)<br>
-          Career Development
+          HTML, CSS, JavaScript (ES6+)<br>
+          React.js, Vue.js, Next.js<br>
+          TailwindCSS, Bootstrap
+        </p>
+      </td>
+      <td valign="top" width="50%" style="padding: 10px;">
+        <div>
+          <strong><img src="https://skillicons.dev/icons?i=laravel,nodejs" width="48px" />  <br>Backend Development</strong>
+        </div>
+        <p align="center" style="margin-top: 5px;">
+          PHP (OOP), Laravel, CodeIgniter<br>
+          Node.js, Express.js, NestJS<br>
+          MySQL, PostgreSQL, MongoDB
         </p>
       </td>
     </tr>
     <tr align="center">
       <td valign="top" colspan="2" style="padding: 10px; border-top: 1px solid #444;">
         <div>
-          <strong><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="18px" />  Backend Development</strong>
+          <strong><img src="https://skillicons.dev/icons?i=figma,selenium" width="48px" />  <br>Additional Skills</strong>
         </div>
         <p align="center" style="margin-top: 5px;">
-          PHP (OOP), Laravel, CodeIgniter<br>
-          Node.js, Express.js, NestJS<br>
-          MySQL, PostgreSQL, MongoDB
+          UI/UX Design Principles<br>
+          Software Testing (Selenium)<br>
+          Career Development
         </p>
       </td>
     </tr>
