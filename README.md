@@ -143,7 +143,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/31te7v3y6ystk6bilb2tur2u3qgi?si=e9d9b1d80ec6448e">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31te7v3y6ystk6bilb2tur2u3qgi&unique&count=7&unique=true" alt="Spotify Recently Played" width="342" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31te7v3y6ystk6bilb2tur2u3qgi&unique&count=9&unique=true" alt="Spotify Recently Played" width="342" />
   </a>
  &nbsp;&nbsp;
   <a href="https://app.daily.dev/mohamadsolkhannawawi">
