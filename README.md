@@ -115,8 +115,8 @@
 
 <h3 align="center">📈 GitHub Activity & Stats</h3>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamadsolkhannawawi&show_icons=true&theme=transparent&hide_border=true&title_color=007BFF&text_color=434343&icon_color=007BFF" alt="solkhan's github stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadsolkhannawawi&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=007BFF&text_color=434343" alt="solkhan's top languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamadsolkhannawawi&show_icons=true&theme=transparent&hide_border=true&title_color=3bc7ff&text_color=f5f3ed&icon_color=007BFF" alt="solkhan's github stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadsolkhannawawi&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=3bc7ff&text_color=f5f3ed" alt="solkhan's top languages"/>
 </p>
 
 <p align="center">
